@@ -1,3 +1,2 @@
 # stepik-auto-tests-course
-Course`s homework
-My first stepd xD 
+домашние задания к курсу "Автоматизация тестирования с помощью Selenium и Python" ссылка на курс - https://stepik.org/course/575/syllabus
